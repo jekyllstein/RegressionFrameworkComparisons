@@ -6,7 +6,8 @@
 
 ## Notebook run instructions:
 - Clone the repository to a local directory and run the envSetup.jl script as explained above
-- Open Julia REPL and execute
+- Navigate to directory in terminal and open julia in that project environment with `julia --project` if julia is in your path.  Otherwise replace `julia` with the path to the julia1.x executable.
+- Within REPL execute
 ```julia
 using IJulia
 notebook(detached=true)
