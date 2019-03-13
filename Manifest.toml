@@ -119,7 +119,7 @@ uuid = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 
 [[FCANN]]
 deps = ["DelimitedFiles", "Distributed", "LinearAlgebra", "Pkg", "Printf", "Random", "Statistics", "Test"]
-git-tree-sha1 = "f1e5d2ee1cc49be201a417dde2b2778d8550e116"
+git-tree-sha1 = "b6de96e2f2602ea1f0c5785e015c59f241dcd71d"
 repo-rev = "julia07fixes"
 repo-url = "https://github.com/Blackbody-Research/FCANN.jl.git"
 uuid = "96bba95e-1607-5f3f-bdb6-ec83c16be7b8"
